@@ -47,7 +47,7 @@ export default function Contact({ isActive }) {
                   <span>Mobile Number</span>
                 </div>
                 <p>
-                  <span>: 7889118161</span>
+                  <span>: +91 7889118161</span>
                 </p>
               </div>
               <div class="contact-item">
