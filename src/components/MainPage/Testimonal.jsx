@@ -58,7 +58,7 @@ function Testimonial() {
             </div>
             <div className="content">
               <h1>Anoop Garg</h1>
-              <h4>Founder of Sattvik Mess</h4>
+              <h4>Model Town</h4>
               <p>
                 I have always been interested in holistic health, and the
                 Sattvik lifestyle has exceeded my expectations.
@@ -70,8 +70,8 @@ function Testimonial() {
               <img src={shreyash_jain} alt="#"></img>
             </div>
             <div className="content">
-              <h1>Shreyash Jain</h1>
-              <h4>Co-Founder at Programming Pathshala</h4>
+              <h1>Shreyash Singla</h1>
+              <h4>Urban Estate</h4>
               <p>
                 {" "}
                 Sattvik and vegetarian food is that it is not only good for my
@@ -86,8 +86,8 @@ function Testimonial() {
               <img src={shreya_munshi} alt="#"></img>
             </div>
             <div className="content">
-              <h1>Shreya Munshi</h1>
-              <h4>Cognitive Data Scientist @IBM</h4>
+              <h1>Shreya Jain</h1>
+              <h4>Jain Colony</h4>
               <p>
                 The Sattvik food is delicious and nourishing, and the practice
                 of yoga and meditation has brought me a deeper sense of peace.
@@ -100,8 +100,8 @@ function Testimonial() {
               <img src={dhawal_jain} alt="#"></img>
             </div>
             <div className="content">
-              <h1>Dhawal Jain</h1>
-              <h4>SDE @Piramal</h4>
+              <h1>Dhawal Kumar</h1>
+              <h4>SUS Nagar</h4>
               <p>
                 The philosophy behind Sattvik food is based on the principle of
                 eating foods that are pure, fresh, and full of life force, which
