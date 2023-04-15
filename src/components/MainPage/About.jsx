@@ -23,14 +23,14 @@ export default function About({ isActive }) {
                 alt=""
               />
               <div>
-                Sattvi<span className="koham-span">koham</span>
+                Eat<span className="koham-span">Sattvik</span>
               </div>
             </div>
           </h2>
         </div>
         <div className="about-content">
           <p style={{ textAlign: "center" }}>
-            SATTVIKOHAM is an event organized by the mess committee of our
+            EATSATTVIK is an event organized by the mess committee of our
             college. The event is designed to promote the importance of a
             healthy and wholesome lifestyle and to encourage participants to
             adopt a SATTVIK diet and lifestyle. The event features a range of
@@ -55,22 +55,21 @@ export default function About({ isActive }) {
                 alt=""
               />
               <div>
-                Sattvik<span>Mess</span>
+                Sattvik<span>Food</span>
               </div>
             </div>
           </h2>
         </div>
         <div className="about-content">
           <p style={{ textAlign: "center" }}>
-            Sattvik Mess is the only mess in our college committed to serving
-            healthy, delicious and pure vegetarian food to the students. The
-            most amazing fact about this mess is that it was founded by the
-            college students and is being managed and regulated by a team
-            consisting of college students. The mess's purpose is to promote the
-            health & well-being of students, along with a commitment to reduce
-            food waste and promote sustainability, while also providing a
-            platform for education and awareness about the benefits of
-            vegetarianism and Sattvik lifestyle.
+            Sattvik food is a wholesome, natural diet based on Ayurveda principles 
+            that promotes physical and mental well-being. It includes fresh fruits, 
+            vegetables, whole grains, nuts, seeds, legumes, and dairy products. 
+            Sattvik food is vegetarian and prepared with minimal spices and oils 
+            to maintain the natural flavors and nutritional value of ingredients. 
+            It promotes vitality, calmness, and spiritual growth, and is believed 
+            to have a calming effect on the mind, reduce stress and anxiety, and 
+            help achieve a healthy and balanced lifestyle in harmony with nature.
           </p>
         </div>
         <div class="about-container">
@@ -107,7 +106,7 @@ export default function About({ isActive }) {
         <h2>Testimonial</h2>
       </div>
       <p style={{ textAlign: "center" }}>
-        See what our Alumnus have to say about sattvik way of living.
+        See what our guests have to say about sattvik way of living.
       </p>
       <Testimonial></Testimonial>
     </section>
