@@ -20,32 +20,32 @@ export default function Contact({ isActive }) {
       </div>
       <div class="timeline">
         <TimelineItem
-          duration="7th April 2023, 10:00pm"
+          duration="7th May 2023, 10:00pm"
           role="Coding Competition"
           company="Sattvik Bytes"
         />
         <TimelineItem
-          duration="8th April 2023, 7:00AM"
+          duration="8th May 2023, 7:00AM"
           role="5k Run"
           company="Prerna Path"
         />
         <TimelineItem
-          duration="8th April 2023, 3:00PM"
+          duration="8th May 2023, 3:00PM"
           role="Poster Making Competition"
           company="Srajanotsav"
         />
         <TimelineItem
-          duration="8th April 2023, 7:00PM"
+          duration="8th May 2023, 7:00PM"
           role="Dinner Celebration"
           company="Sattvik Bhoj"
         />
         <TimelineItem
-          duration="9th April 2023, 7:00AM"
+          duration="9th May 2023, 7:00AM"
           role="Yoga Session"
           company="Yogadhyatm"
         />
         <TimelineItem
-          duration="9th April 2023, 3:00PM"
+          duration="9th May 2023, 3:00PM"
           role="Guest to be announced"
           company="Guest Talk"
         />
