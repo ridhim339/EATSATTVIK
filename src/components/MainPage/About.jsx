@@ -101,7 +101,7 @@ export default function About({ isActive }) {
 //             </div>
 //           </div>
 //         </div>
-      </div>
+//       </div>
       <div className="main-title">
         <h2>Testimonial</h2>
       </div>
