@@ -30,8 +30,8 @@ export default function About({ isActive }) {
         </div>
         <div className="about-content">
           <p style={{ textAlign: "center" }}>
-            EATSATTVIK is an event organized by the mess committee of our
-            college. The event is designed to promote the importance of a
+            EATSATTVIK is an event organized to promote healthy vegertarian or 
+            as the name suggests, "Sattvik" food. The event is designed to promote the importance of a
             healthy and wholesome lifestyle and to encourage participants to
             adopt a SATTVIK diet and lifestyle. The event features a range of
             competitions and activities, including a marathon, coding
