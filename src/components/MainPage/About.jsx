@@ -72,35 +72,35 @@ export default function About({ isActive }) {
             help achieve a healthy and balanced lifestyle in harmony with nature.
           </p>
         </div>
-        <div class="about-container">
-          <div class="right-about">
-            <div class="about-item">
-              <div class="abt-text">
-                <p class="large-text">500+</p>
-                <p class="small-text">
-                  Students <br /> Enrolled
-                </p>
-              </div>
-            </div>
-            <div class="about-item">
-              <div class="abt-text">
-                <p class="large-text">30+</p>
-                <p class="small-text">
-                  Employees <br /> Serving
-                </p>
-              </div>
-            </div>
+//         <div class="about-container">
+//           <div class="right-about">
+//             <div class="about-item">
+//               <div class="abt-text">
+//                 <p class="large-text">500+</p>
+//                 <p class="small-text">
+//                   Students <br /> Enrolled
+//                 </p>
+//               </div>
+//             </div>
+//             <div class="about-item">
+//               <div class="abt-text">
+//                 <p class="large-text">30+</p>
+//                 <p class="small-text">
+//                   Employees <br /> Serving
+//                 </p>
+//               </div>
+//             </div>
 
-            <div class="about-item">
-              <div class="abt-text">
-                <p class="large-text">11+</p>
-                <p class="small-text">
-                  years of <br /> serving
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
+//             <div class="about-item">
+//               <div class="abt-text">
+//                 <p class="large-text">11+</p>
+//                 <p class="small-text">
+//                   years of <br /> serving
+//                 </p>
+//               </div>
+//             </div>
+//           </div>
+//         </div>
       </div>
       <div className="main-title">
         <h2>Testimonial</h2>
