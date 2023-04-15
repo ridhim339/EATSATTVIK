@@ -36,7 +36,7 @@ export default function Header({ isActive, navigator }) {
                 />
                 <div style={{ display: "flex", flexDirection: "column" }}>
                   <div>
-                    Sattvi<span>koham</span>
+                    Eat<span>Sattvik</span>
                   </div>
                   <div
                     className="tagline"
@@ -56,7 +56,7 @@ export default function Header({ isActive, navigator }) {
             <span>Sattvikoham</span> : A gateway to healthy life
   </h1>*/}
           <p style={{ textAlign: "center" }}>
-            Sattvikoham, an auspicious inaugural institute fest, is devoted to
+            EatSattvik, an auspicious inaugural food fest, is devoted to
             promoting a salubrious lifestyle and fostering a heightened sense of
             self-awareness in students with regards to their overall well-being.
             This year's celebration, which coincides with the International Year
