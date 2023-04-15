@@ -38,7 +38,7 @@ export default function Contact({ isActive }) {
                   <span>Email</span>
                 </div>
                 <p>
-                  <span>: ridhim339@gmail.com</span>
+                  <span>: ridhim339@gmail.com, manroopkaur1092@gmail.com</span>
                 </p>
               </div>
               <div class="contact-item">
@@ -47,7 +47,7 @@ export default function Contact({ isActive }) {
                   <span>Mobile Number</span>
                 </div>
                 <p>
-                  <span>: +91 7889118161</span>
+                  <span>: +91-7889118161, +91-8283989678</span>
                 </p>
               </div>
               <div class="contact-item">
@@ -56,7 +56,7 @@ export default function Contact({ isActive }) {
                   <span>Languages</span>
                 </div>
                 <p>
-                  <span>: Hindi, English</span>
+                  <span>: Hindi, English, Punjabi</span>
                 </p>
               </div>
             </div>
