@@ -22,11 +22,11 @@ export default function Portfolio({ isActive }) {
     >
       <div class="main-title">
         <h2>
-          Sattvikoham <span>Events</span>
+          EatSattvik <span>Events</span>
         </h2>
       </div>
       <p class="port-text">
-        Join us at Sattvikoham's captivating events and seize incredible
+        Join us at EatSattvik's captivating events and seize incredible
         opportunities. We welcome you to register and revel in the excitement!
       </p>
       <div class="portfolios">
@@ -34,9 +34,14 @@ export default function Portfolio({ isActive }) {
           link="https://forms.gle/TXG3K8QQ6TdnhaJR6"
           img={poster_yoga}
           title="Yogadhyatm"
-          desc="Hey, folks! Looking for a fun and free way to reduce stress, improve focus, and boost your overall well-being? Join us for an exciting yoga event on 9th April at 7AM at Gymkhana.
-          The yoga session is led by experienced yoga instructors who guide participants through a series of exercises designed to promote physical and mental well-being. The session is open to all, and participants are encouraged to attend and experience the benefits of this ancient practice.
-          Reduce stress, enhance focus, and improve your overall physical and mental health, all at once. Don't miss out on this amazing opportunity! Reserve your spot fast."
+          desc="Hey, folks! Looking for a fun and free way to reduce stress, improve focus, 
+          and boost your overall well-being? Join us for an exciting yoga event on 9th May at 7AM.
+          The yoga session is led by experienced yoga instructors who guide participants through a 
+          series of exercises designed to promote physical and mental well-being. The session is 
+          open to all, and participants are encouraged to attend and experience the benefits of 
+          this ancient practice.
+          Reduce stress, enhance focus, and improve your overall physical and mental health, all 
+          at once. Don't miss out on this amazing opportunity! Reserve your spot fast."
         />
 
         <PortfolioItem
@@ -66,7 +71,11 @@ export default function Portfolio({ isActive }) {
           link="https://forms.gle/TXG3K8QQ6TdnhaJR6"
           img={poster_postermaking}
           title="Srajanotsav"
-          desc="The poster-making competition provides an opportunity for participants to showcase their creativity and design skills. The theme of the competition is centered around promoting the benefits of a SATTVIK diet and lifestyle, and participants are encouraged to create visually appealing posters that highlight the importance of healthy eating habits.
+          desc="The poster-making competition provides an opportunity for participants to 
+          showcase their creativity and design skills. The theme of the competition is 
+          centered around promoting the benefits of a SATTVIK diet and lifestyle, and 
+          participants are encouraged to create visually appealing posters that highlight 
+          the importance of healthy eating habits.
           "
         />
 
@@ -74,18 +83,28 @@ export default function Portfolio({ isActive }) {
           link="https://forms.gle/TXG3K8QQ6TdnhaJR6"
           img={fivek_run}
           title="Prerna Path"
-          desc="Tired of spending all day sitting in front of a screen? Looking for a fun and rewarding way to get active and showcase your athletic skills. 
-          Join us for an exciting marathon event in which participants from all over the campus come together to run and promote the benefits of physical fitness.
-          Whether you're a seasoned runner or a beginner, this event is for you! We'll have refreshments for all participants, so you can fuel up and keep going. Don't miss out on this amazing opportunity to boost your physical fitness and mental wellbeing. Register now to secure your spot!"
+          desc="Tired of spending all day sitting in front of a screen? Looking for a fun and 
+          rewarding way to get active and showcase your athletic skills. 
+          Join us for an exciting marathon event in which participants from all over the campus 
+          come together to run and promote the benefits of physical fitness.
+          Whether you're a seasoned runner or a beginner, this event is for you! We'll have 
+          refreshments for all participants, so you can fuel up and keep going. Don't miss out 
+          on this amazing opportunity to boost your physical fitness and mental wellbeing. 
+          Register now to secure your spot!"
         />
 
         <PortfolioItem
           link="https://forms.gle/TXG3K8QQ6TdnhaJR6"
           img={poster_yoga}
           title="Yogadhyatm"
-          desc="Hey, folks! Looking for a fun and free way to reduce stress, improve focus, and boost your overall well-being? Join us for an exciting yoga event on 9th April at 7AM at Gymkhana.
-        The yoga session is led by experienced yoga instructors who guide participants through a series of exercises designed to promote physical and mental well-being. The session is open to all, and participants are encouraged to attend and experience the benefits of this ancient practice.
-        Reduce stress, enhance focus, and improve your overall physical and mental health, all at once. Don't miss out on this amazing opportunity! Reserve your spot fast."
+          desc="Hey, folks! Looking for a fun and free way to reduce stress, improve focus, and 
+          boost your overall well-being? Join us for an exciting yoga event on 9th May at 7AM.
+          The yoga session is led by experienced yoga instructors who guide participants through a 
+          series of exercises designed to promote physical and mental well-being. The session is 
+          open to all, and participants are encouraged to attend and experience the benefits of 
+          this ancient practice.
+          Reduce stress, enhance focus, and improve your overall physical and mental health, 
+          all at once. Don't miss out on this amazing opportunity! Reserve your spot fast."
         />
 
         <PortfolioItem
