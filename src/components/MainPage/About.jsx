@@ -36,7 +36,7 @@ export default function About({ isActive }) {
             adopt a SATTVIK diet and lifestyle. The event features a range of
             competitions and activities, including a marathon, coding
             competition, poster-making competition, guest talk, and a yoga
-            session.It is a unique and inspiring event that promotes the
+            session. It is a unique and inspiring event that promotes the
             benefits of a healthy and balanced lifestyle. With its range of
             competitions, activities, and talks, it provides a platform for
             participants to learn, grow, and connect with others who share
